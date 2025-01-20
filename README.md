@@ -1,4 +1,4 @@
-![alt text](https://github.com/iraone1/ManagementApp/blob/main/src/assets/Screenshot_1737377515.png?raw=true)
+![alt text](https://github.com/iraone1/ManagementApp/blob/main/src/assets/ss%20manageApp.png?raw=true)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
